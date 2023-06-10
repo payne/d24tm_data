@@ -1,0 +1,2282 @@
+{
+    "Clubs": [
+        {
+            "ExtensionData": null,
+            "Address": {
+                "Id": null,
+                "Street": "2201 S. 132nd Street",
+                "AdditionalLines": null,
+                "City": "Omaha",
+                "County": null,
+                "PrimaryRegion": {
+                    "Value": "NE",
+                    "Guid": null,
+                    "Name": null,
+                    "Valid": true
+                },
+                "PrimaryRegionDescription": "Nebraska",
+                "Country": null,
+                "PostalCode": "68144",
+                "Coordinates": {
+                    "Longitude": -96.1189,
+                    "Latitude": 41.2383
+                },
+                "TimeZone": null,
+                "ValidationDetails": null
+            },
+            "AllowsVirtualAttendance": false,
+            "CharterDate": "/Date(307605600000)/",
+            "Classification": {
+                "Club": null,
+                "Area": {
+                    "Id": null,
+                    "Name": "13"
+                },
+                "Division": {
+                    "Id": null,
+                    "Name": "B"
+                },
+                "Region": null,
+                "District": {
+                    "Id": null,
+                    "Name": "24"
+                }
+            },
+            "CountryName": "United States",
+            "Distance": 0.17526074559834803,
+            "Email": "contact-4070@toastmastersclubs.org",
+            "FacebookLink": null,
+            "Identification": {
+                "Id": {
+                    "DisplayFriendlyFormat": "4070",
+                    "Value": "00004070",
+                    "Guid": null,
+                    "Name": "Noonshiners Club",
+                    "Valid": true
+                },
+                "Name": "Noonshiners Club"
+            },
+            "IsProspective": false,
+            "Location": "Faith Christian Church<br>North Office Entrance to Fellowship Hall",
+            "MeetingDay": "Wednesday",
+            "MeetingTime": "12:00 pm",
+            "Note": "",
+            "Phone": "1-402-659-7101",
+            "Restriction": [],
+            "TwitterLink": null,
+            "Website": "https://noonshiners.toastmastersclubs.org/"
+        },
+        {
+            "ExtensionData": null,
+            "Address": {
+                "Id": null,
+                "Street": "15080 A Circle",
+                "AdditionalLines": null,
+                "City": "Omaha",
+                "County": null,
+                "PrimaryRegion": {
+                    "Value": "NE",
+                    "Guid": null,
+                    "Name": null,
+                    "Valid": true
+                },
+                "PrimaryRegionDescription": "Nebraska",
+                "Country": null,
+                "PostalCode": "68144",
+                "Coordinates": {
+                    "Longitude": -96.14339,
+                    "Latitude": 41.22052
+                },
+                "TimeZone": null,
+                "ValidationDetails": null
+            },
+            "AllowsVirtualAttendance": true,
+            "CharterDate": "/Date(1101884400000)/",
+            "Classification": {
+                "Club": null,
+                "Area": {
+                    "Id": null,
+                    "Name": "13"
+                },
+                "Division": {
+                    "Id": null,
+                    "Name": "B"
+                },
+                "Region": null,
+                "District": {
+                    "Id": null,
+                    "Name": "24"
+                }
+            },
+            "CountryName": "United States",
+            "Distance": 1.8438114508195491,
+            "Email": null,
+            "FacebookLink": null,
+            "Identification": {
+                "Id": {
+                    "DisplayFriendlyFormat": "706453",
+                    "Value": "00706453",
+                    "Guid": null,
+                    "Name": "West O! Toastmasters",
+                    "Valid": true
+                },
+                "Name": "West O! Toastmasters"
+            },
+            "IsProspective": false,
+            "Location": "Terracon",
+            "MeetingDay": "Tuesday",
+            "MeetingTime": "12:00 pm",
+            "Note": "",
+            "Phone": "+undefined 402-384-7065",
+            "Restriction": [],
+            "TwitterLink": null,
+            "Website": "http://westo.toastmastersclubs.org/"
+        },
+        {
+            "ExtensionData": null,
+            "Address": {
+                "Id": null,
+                "Street": "Online",
+                "AdditionalLines": null,
+                "City": "Omaha",
+                "County": null,
+                "PrimaryRegion": {
+                    "Value": "NE",
+                    "Guid": null,
+                    "Name": null,
+                    "Valid": true
+                },
+                "PrimaryRegionDescription": "Nebraska",
+                "Country": null,
+                "PostalCode": "68154",
+                "Coordinates": {
+                    "Longitude": -96.11504,
+                    "Latitude": 41.26457
+                },
+                "TimeZone": null,
+                "ValidationDetails": null
+            },
+            "AllowsVirtualAttendance": true,
+            "CharterDate": "/Date(1372312800000)/",
+            "Classification": {
+                "Club": null,
+                "Area": {
+                    "Id": null,
+                    "Name": "01"
+                },
+                "Division": {
+                    "Id": null,
+                    "Name": "A"
+                },
+                "Region": null,
+                "District": {
+                    "Id": null,
+                    "Name": "24"
+                }
+            },
+            "CountryName": "United States",
+            "Distance": 1.8845931935354008,
+            "Email": "contact-3261950@toastmastersclubs.org",
+            "FacebookLink": "https://www.facebook.com/groups/DynamicSpeakersNE",
+            "Identification": {
+                "Id": {
+                    "DisplayFriendlyFormat": "3261950",
+                    "Value": "03261950",
+                    "Guid": null,
+                    "Name": "Dynamic Speakers",
+                    "Valid": true
+                },
+                "Name": "Dynamic Speakers"
+            },
+            "IsProspective": false,
+            "Location": "Dynamic Speakers meets online",
+            "MeetingDay": "3rd Tuesday",
+            "MeetingTime": "6:00 pm",
+            "Note": "This club may have professional and/or educational prerequisites for membership.<BR>Please contact the club for further information.",
+            "Phone": null,
+            "Restriction": [
+                []
+            ],
+            "TwitterLink": null,
+            "Website": "http://dynamicspeakersne.toastmastersclubs.org/"
+        },
+        {
+            "ExtensionData": null,
+            "Address": {
+                "Id": null,
+                "Street": "14010 FNB Parkway, Room A/B",
+                "AdditionalLines": null,
+                "City": "Omaha",
+                "County": null,
+                "PrimaryRegion": {
+                    "Value": "NE",
+                    "Guid": null,
+                    "Name": null,
+                    "Valid": true
+                },
+                "PrimaryRegionDescription": "Nebraska",
+                "Country": null,
+                "PostalCode": "68154",
+                "Coordinates": {
+                    "Longitude": -96.134,
+                    "Latitude": 41.26434
+                },
+                "TimeZone": null,
+                "ValidationDetails": null
+            },
+            "AllowsVirtualAttendance": true,
+            "CharterDate": "/Date(1213855200000)/",
+            "Classification": {
+                "Club": null,
+                "Area": {
+                    "Id": null,
+                    "Name": "12"
+                },
+                "Division": {
+                    "Id": null,
+                    "Name": "B"
+                },
+                "Region": null,
+                "District": {
+                    "Id": null,
+                    "Name": "24"
+                }
+            },
+            "CountryName": "United States",
+            "Distance": 2.0938802284883087,
+            "Email": "contact-1199094@toastmastersclubs.org",
+            "FacebookLink": "https://www.facebook.com/pages/West-Dodgers-Toastmasters-Club/339241459439701?sk=info",
+            "Identification": {
+                "Id": {
+                    "DisplayFriendlyFormat": "1199094",
+                    "Value": "01199094",
+                    "Guid": null,
+                    "Name": "West Dodgers",
+                    "Valid": true
+                },
+                "Name": "West Dodgers"
+            },
+            "IsProspective": false,
+            "Location": "First National Bank",
+            "MeetingDay": "2nd & 4th Thursday",
+            "MeetingTime": "12:00 pm",
+            "Note": "",
+            "Phone": null,
+            "Restriction": [],
+            "TwitterLink": null,
+            "Website": "http://westdodgers.toastmastersclubs.org/"
+        },
+        {
+            "ExtensionData": null,
+            "Address": {
+                "Id": null,
+                "Street": "One Pacific Place, 1224 S 103rd St",
+                "AdditionalLines": null,
+                "City": "Omaha",
+                "County": null,
+                "PrimaryRegion": {
+                    "Value": "NE",
+                    "Guid": null,
+                    "Name": null,
+                    "Valid": true
+                },
+                "PrimaryRegionDescription": "Nebraska",
+                "Country": null,
+                "PostalCode": "68124",
+                "Coordinates": {
+                    "Longitude": -96.07359,
+                    "Latitude": 41.24671
+                },
+                "TimeZone": null,
+                "ValidationDetails": null
+            },
+            "AllowsVirtualAttendance": false,
+            "CharterDate": "/Date(-283971600000)/",
+            "Classification": {
+                "Club": null,
+                "Area": {
+                    "Id": null,
+                    "Name": "34"
+                },
+                "Division": {
+                    "Id": null,
+                    "Name": "D"
+                },
+                "Region": null,
+                "District": {
+                    "Id": null,
+                    "Name": "24"
+                }
+            },
+            "CountryName": "United States",
+            "Distance": 2.287312840212419,
+            "Email": "revelliers.omaha@gmail.com",
+            "FacebookLink": null,
+            "Identification": {
+                "Id": {
+                    "DisplayFriendlyFormat": "1796",
+                    "Value": "00001796",
+                    "Guid": null,
+                    "Name": "Revelliers Club",
+                    "Valid": true
+                },
+                "Name": "Revelliers Club"
+            },
+            "IsProspective": false,
+            "Location": "Wheatfields",
+            "MeetingDay": "Wednesday",
+            "MeetingTime": "7:00 am",
+            "Note": "",
+            "Phone": "+1 40220687532355",
+            "Restriction": [],
+            "TwitterLink": null,
+            "Website": "http://revelliers.org/"
+        },
+        {
+            "ExtensionData": null,
+            "Address": {
+                "Id": null,
+                "Street": "5015 S 118th St",
+                "AdditionalLines": null,
+                "City": "Omaha",
+                "County": null,
+                "PrimaryRegion": {
+                    "Value": "NE",
+                    "Guid": null,
+                    "Name": null,
+                    "Valid": true
+                },
+                "PrimaryRegionDescription": "Nebraska",
+                "Country": null,
+                "PostalCode": "68137",
+                "Coordinates": {
+                    "Longitude": -96.0972,
+                    "Latitude": 41.20691
+                },
+                "TimeZone": null,
+                "ValidationDetails": null
+            },
+            "AllowsVirtualAttendance": true,
+            "CharterDate": "/Date(1656136800000)/",
+            "Classification": {
+                "Club": null,
+                "Area": {
+                    "Id": null,
+                    "Name": "12"
+                },
+                "Division": {
+                    "Id": null,
+                    "Name": "B"
+                },
+                "Region": null,
+                "District": {
+                    "Id": null,
+                    "Name": "24"
+                }
+            },
+            "CountryName": "United States",
+            "Distance": 2.31156468717313,
+            "Email": "jen.joneson@fcsamerica.com",
+            "FacebookLink": null,
+            "Identification": {
+                "Id": {
+                    "DisplayFriendlyFormat": "28675406",
+                    "Value": "28675406",
+                    "Guid": null,
+                    "Name": "FCSAmerica Toastmasters Club",
+                    "Valid": true
+                },
+                "Name": "FCSAmerica Toastmasters Club"
+            },
+            "IsProspective": false,
+            "Location": "FCSAmerica Office<br>5015 S 118th St",
+            "MeetingDay": "Thursday",
+            "MeetingTime": "12:00 PM CT",
+            "Note": "",
+            "Phone": "4023051721",
+            "Restriction": [
+                []
+            ],
+            "TwitterLink": null,
+            "Website": null
+        },
+        {
+            "ExtensionData": null,
+            "Address": {
+                "Id": null,
+                "Street": "11830 Nicholas St.",
+                "AdditionalLines": null,
+                "City": "Omaha",
+                "County": null,
+                "PrimaryRegion": {
+                    "Value": "NE",
+                    "Guid": null,
+                    "Name": null,
+                    "Valid": true
+                },
+                "PrimaryRegionDescription": "Nebraska",
+                "Country": null,
+                "PostalCode": "68154",
+                "Coordinates": {
+                    "Longitude": -96.09838,
+                    "Latitude": 41.26929
+                },
+                "TimeZone": null,
+                "ValidationDetails": null
+            },
+            "AllowsVirtualAttendance": false,
+            "CharterDate": "/Date(704700000000)/",
+            "Classification": {
+                "Club": null,
+                "Area": {
+                    "Id": null,
+                    "Name": "11"
+                },
+                "Division": {
+                    "Id": null,
+                    "Name": "B"
+                },
+                "Region": null,
+                "District": {
+                    "Id": null,
+                    "Name": "24"
+                }
+            },
+            "CountryName": "United States",
+            "Distance": 2.3883528713574544,
+            "Email": "allanhale777@gmail.com",
+            "FacebookLink": null,
+            "Identification": {
+                "Id": {
+                    "DisplayFriendlyFormat": "8759",
+                    "Value": "00008759",
+                    "Guid": null,
+                    "Name": "Realtalkers Club",
+                    "Valid": true
+                },
+                "Name": "Realtalkers Club"
+            },
+            "IsProspective": false,
+            "Location": "Omaha Area Board of Realtors",
+            "MeetingDay": "Friday",
+            "MeetingTime": "7:15 am",
+            "Note": "",
+            "Phone": "+1-402-720-4772",
+            "Restriction": [],
+            "TwitterLink": null,
+            "Website": "http://realtalkers.toastmastersclubs.org/"
+        },
+        {
+            "ExtensionData": null,
+            "Address": {
+                "Id": null,
+                "Street": "450 Regency Pkwy Ste 340",
+                "AdditionalLines": null,
+                "City": "Omaha",
+                "County": null,
+                "PrimaryRegion": {
+                    "Value": "NE",
+                    "Guid": null,
+                    "Name": null,
+                    "Valid": true
+                },
+                "PrimaryRegionDescription": "Nebraska",
+                "Country": null,
+                "PostalCode": "68114-3764",
+                "Coordinates": {
+                    "Longitude": -96.07473,
+                    "Latitude": 41.25493
+                },
+                "TimeZone": null,
+                "ValidationDetails": null
+            },
+            "AllowsVirtualAttendance": true,
+            "CharterDate": "/Date(1575356400000)/",
+            "Classification": {
+                "Club": null,
+                "Area": {
+                    "Id": null,
+                    "Name": "12"
+                },
+                "Division": {
+                    "Id": null,
+                    "Name": "B"
+                },
+                "Region": null,
+                "District": {
+                    "Id": null,
+                    "Name": "24"
+                }
+            },
+            "CountryName": "United States",
+            "Distance": 2.456839669846191,
+            "Email": "RKembel@BlandGovConsulting.com",
+            "FacebookLink": null,
+            "Identification": {
+                "Id": {
+                    "DisplayFriendlyFormat": "7700567",
+                    "Value": "07700567",
+                    "Guid": null,
+                    "Name": "Not So Bland Toastmasters Club",
+                    "Valid": true
+                },
+                "Name": "Not So Bland Toastmasters Club"
+            },
+            "IsProspective": false,
+            "Location": "Bland & Associates PC",
+            "MeetingDay": "Every third Tuesday",
+            "MeetingTime": "12:00 - 1:00 PM",
+            "Note": "",
+            "Phone": "(402) 278-1175",
+            "Restriction": [
+                []
+            ],
+            "TwitterLink": null,
+            "Website": null
+        },
+        {
+            "ExtensionData": null,
+            "Address": {
+                "Id": null,
+                "Street": "New York Life, 1907 S 179th St",
+                "AdditionalLines": null,
+                "City": "Omaha",
+                "County": null,
+                "PrimaryRegion": {
+                    "Value": "NE",
+                    "Guid": null,
+                    "Name": null,
+                    "Valid": true
+                },
+                "PrimaryRegionDescription": "Nebraska",
+                "Country": null,
+                "PostalCode": "68130",
+                "Coordinates": {
+                    "Longitude": -96.18929,
+                    "Latitude": 41.2353
+                },
+                "TimeZone": null,
+                "ValidationDetails": null
+            },
+            "AllowsVirtualAttendance": true,
+            "CharterDate": "/Date(1236236400000)/",
+            "Classification": {
+                "Club": null,
+                "Area": {
+                    "Id": null,
+                    "Name": "02"
+                },
+                "Division": {
+                    "Id": null,
+                    "Name": "A"
+                },
+                "Region": null,
+                "District": {
+                    "Id": null,
+                    "Name": "24"
+                }
+            },
+            "CountryName": "United States",
+            "Distance": 3.820902675384695,
+            "Email": "contact-1282109@toastmastersclubs.org",
+            "FacebookLink": null,
+            "Identification": {
+                "Id": {
+                    "DisplayFriendlyFormat": "1282109",
+                    "Value": "01282109",
+                    "Guid": null,
+                    "Name": "Advanced Toastmasters of Omaha",
+                    "Valid": true
+                },
+                "Name": "Advanced Toastmasters of Omaha"
+            },
+            "IsProspective": false,
+            "Location": "On-line",
+            "MeetingDay": "2nd Monday of the month",
+            "MeetingTime": "6:00 PM",
+            "Note": "This club may have professional and/or educational prerequisites for membership.<BR>Please contact the club for further information.",
+            "Phone": "+12-650-1579",
+            "Restriction": [
+                []
+            ],
+            "TwitterLink": null,
+            "Website": "http://1282109.toastmastersclubs.org/"
+        },
+        {
+            "ExtensionData": null,
+            "Address": {
+                "Id": null,
+                "Street": "720 N 87th St, (Room varies, ask at front desk)",
+                "AdditionalLines": null,
+                "City": "Omaha",
+                "County": null,
+                "PrimaryRegion": {
+                    "Value": "NE",
+                    "Guid": null,
+                    "Name": null,
+                    "Valid": true
+                },
+                "PrimaryRegionDescription": "Nebraska",
+                "Country": null,
+                "PostalCode": "68114",
+                "Coordinates": {
+                    "Longitude": -96.04854,
+                    "Latitude": 41.26587
+                },
+                "TimeZone": null,
+                "ValidationDetails": null
+            },
+            "AllowsVirtualAttendance": false,
+            "CharterDate": "/Date(-778528800000)/",
+            "Classification": {
+                "Club": null,
+                "Area": {
+                    "Id": null,
+                    "Name": "34"
+                },
+                "Division": {
+                    "Id": null,
+                    "Name": "D"
+                },
+                "Region": null,
+                "District": {
+                    "Id": null,
+                    "Name": "24"
+                }
+            },
+            "CountryName": "United States",
+            "Distance": 4.01296935546002,
+            "Email": "contact-281@toastmastersclubs.org",
+            "FacebookLink": "https://www.facebook.com/pages/Omaha-Toastmasters-Club-281/201221199905077",
+            "Identification": {
+                "Id": {
+                    "DisplayFriendlyFormat": "281",
+                    "Value": "00000281",
+                    "Guid": null,
+                    "Name": "Omaha Toastmasters Club 281",
+                    "Valid": true
+                },
+                "Name": "Omaha Toastmasters Club 281"
+            },
+            "IsProspective": false,
+            "Location": "Nebraska Methodist College<br>Clark Center building",
+            "MeetingDay": "Tuesday",
+            "MeetingTime": "5:45 pm - 7:00 pm",
+            "Note": "",
+            "Phone": "(402) 577-0763",
+            "Restriction": [],
+            "TwitterLink": null,
+            "Website": "http://281.toastmastersclubs.org/"
+        },
+        {
+            "ExtensionData": null,
+            "Address": {
+                "Id": null,
+                "Street": "720 N. 87th St., Omaha, NE 68114, Classroom #3202",
+                "AdditionalLines": null,
+                "City": "Omaha",
+                "County": null,
+                "PrimaryRegion": {
+                    "Value": "NE",
+                    "Guid": null,
+                    "Name": null,
+                    "Valid": true
+                },
+                "PrimaryRegionDescription": "Nebraska",
+                "Country": null,
+                "PostalCode": "68114-2852",
+                "Coordinates": {
+                    "Longitude": -96.04825,
+                    "Latitude": 41.26576
+                },
+                "TimeZone": null,
+                "ValidationDetails": null
+            },
+            "AllowsVirtualAttendance": true,
+            "CharterDate": "/Date(1339740000000)/",
+            "Classification": {
+                "Club": null,
+                "Area": {
+                    "Id": null,
+                    "Name": "34"
+                },
+                "Division": {
+                    "Id": null,
+                    "Name": "D"
+                },
+                "Region": null,
+                "District": {
+                    "Id": null,
+                    "Name": "24"
+                }
+            },
+            "CountryName": "United States",
+            "Distance": 4.022373512643648,
+            "Email": "vpe-2335110@toastmastersclubs.org",
+            "FacebookLink": null,
+            "Identification": {
+                "Id": {
+                    "DisplayFriendlyFormat": "2335110",
+                    "Value": "02335110",
+                    "Guid": null,
+                    "Name": "NMC Voices For  Change",
+                    "Valid": true
+                },
+                "Name": "NMC Voices For  Change"
+            },
+            "IsProspective": false,
+            "Location": "Nebraska Methodist College (Hybrid)<br>(Zoom: http://zoom.us/j/254938660?pwd=Wk9F)",
+            "MeetingDay": "2nd & 4th Monday",
+            "MeetingTime": "8:00 - 9:00 a.m.",
+            "Note": "",
+            "Phone": "+1 402-354-7021",
+            "Restriction": [],
+            "TwitterLink": null,
+            "Website": "https://2335110.toastmastersclubs.org/"
+        },
+        {
+            "ExtensionData": null,
+            "Address": {
+                "Id": null,
+                "Street": "333 Dodge Street",
+                "AdditionalLines": null,
+                "City": "Omaha",
+                "County": null,
+                "PrimaryRegion": {
+                    "Value": "NE",
+                    "Guid": null,
+                    "Name": null,
+                    "Valid": true
+                },
+                "PrimaryRegionDescription": "Nebraska",
+                "Country": null,
+                "PostalCode": "68138",
+                "Coordinates": {
+                    "Longitude": -96.13382,
+                    "Latitude": 41.17528
+                },
+                "TimeZone": null,
+                "ValidationDetails": null
+            },
+            "AllowsVirtualAttendance": false,
+            "CharterDate": "/Date(568018800000)/",
+            "Classification": {
+                "Club": null,
+                "Area": {
+                    "Id": null,
+                    "Name": "13"
+                },
+                "Division": {
+                    "Id": null,
+                    "Name": "B"
+                },
+                "Region": null,
+                "District": {
+                    "Id": null,
+                    "Name": "24"
+                }
+            },
+            "CountryName": "United States",
+            "Distance": 4.386364209327133,
+            "Email": "tjdtm@msn.com",
+            "FacebookLink": null,
+            "Identification": {
+                "Id": {
+                    "DisplayFriendlyFormat": "6806",
+                    "Value": "00006806",
+                    "Guid": null,
+                    "Name": "Roman Forum Toastmasters Club",
+                    "Valid": true
+                },
+                "Name": "Roman Forum Toastmasters Club"
+            },
+            "IsProspective": false,
+            "Location": "Various Locations",
+            "MeetingDay": "3rd Wednesday",
+            "MeetingTime": "11:30 am",
+            "Note": "",
+            "Phone": "(402) 895-3974",
+            "Restriction": [],
+            "TwitterLink": null,
+            "Website": "6806.toastmastersclubs.org"
+        },
+        {
+            "ExtensionData": null,
+            "Address": {
+                "Id": null,
+                "Street": "18020 Burt Street",
+                "AdditionalLines": null,
+                "City": "Omaha",
+                "County": null,
+                "PrimaryRegion": {
+                    "Value": "NE",
+                    "Guid": null,
+                    "Name": null,
+                    "Valid": true
+                },
+                "PrimaryRegionDescription": "Nebraska",
+                "Country": null,
+                "PostalCode": "68022",
+                "Coordinates": {
+                    "Longitude": -96.19862,
+                    "Latitude": 41.26698
+                },
+                "TimeZone": null,
+                "ValidationDetails": null
+            },
+            "AllowsVirtualAttendance": true,
+            "CharterDate": "/Date(1333260000000)/",
+            "Classification": {
+                "Club": null,
+                "Area": {
+                    "Id": null,
+                    "Name": "11"
+                },
+                "Division": {
+                    "Id": null,
+                    "Name": "B"
+                },
+                "Region": null,
+                "District": {
+                    "Id": null,
+                    "Name": "24"
+                }
+            },
+            "CountryName": "United States",
+            "Distance": 4.765885611203031,
+            "Email": "cindy.jenkins@csgi.com",
+            "FacebookLink": null,
+            "Identification": {
+                "Id": {
+                    "DisplayFriendlyFormat": "2299389",
+                    "Value": "02299389",
+                    "Guid": null,
+                    "Name": "See Us Speak",
+                    "Valid": true
+                },
+                "Name": "See Us Speak"
+            },
+            "IsProspective": false,
+            "Location": "CSG International",
+            "MeetingDay": "2nd and 4th Wednesday",
+            "MeetingTime": "12:00 pm",
+            "Note": "",
+            "Phone": "24317401",
+            "Restriction": [],
+            "TwitterLink": null,
+            "Website": "http://seeusspeakclub.toastmastersclubs.org/"
+        },
+        {
+            "ExtensionData": null,
+            "Address": {
+                "Id": null,
+                "Street": "7205 Dodge Street",
+                "AdditionalLines": null,
+                "City": "Omaha",
+                "County": null,
+                "PrimaryRegion": {
+                    "Value": "NE",
+                    "Guid": null,
+                    "Name": null,
+                    "Valid": true
+                },
+                "PrimaryRegionDescription": "Nebraska",
+                "Country": null,
+                "PostalCode": "68114",
+                "Coordinates": {
+                    "Longitude": -96.02488,
+                    "Latitude": 41.25895
+                },
+                "TimeZone": null,
+                "ValidationDetails": null
+            },
+            "AllowsVirtualAttendance": true,
+            "CharterDate": "/Date(328687200000)/",
+            "Classification": {
+                "Club": null,
+                "Area": {
+                    "Id": null,
+                    "Name": "34"
+                },
+                "Division": {
+                    "Id": null,
+                    "Name": "D"
+                },
+                "Region": null,
+                "District": {
+                    "Id": null,
+                    "Name": "24"
+                }
+            },
+            "CountryName": "United States",
+            "Distance": 4.954397374253794,
+            "Email": "bethor85@gmail.com",
+            "FacebookLink": "https://www.facebook.com/adlibbers.omaha/",
+            "Identification": {
+                "Id": {
+                    "DisplayFriendlyFormat": "2499",
+                    "Value": "00002499",
+                    "Guid": null,
+                    "Name": "Ad-Libbers Club",
+                    "Valid": true
+                },
+                "Name": "Ad-Libbers Club"
+            },
+            "IsProspective": false,
+            "Location": "Do Space",
+            "MeetingDay": "2nd & 4th Thursday- Hybrid",
+            "MeetingTime": "6:30 pm - 7:30pm",
+            "Note": "",
+            "Phone": "402-216-3898",
+            "Restriction": [],
+            "TwitterLink": null,
+            "Website": "http://2499.toastmastersclubs.org/"
+        },
+        {
+            "ExtensionData": null,
+            "Address": {
+                "Id": null,
+                "Street": "7205 Dodge St",
+                "AdditionalLines": null,
+                "City": "Omaha",
+                "County": null,
+                "PrimaryRegion": {
+                    "Value": "NE",
+                    "Guid": null,
+                    "Name": null,
+                    "Valid": true
+                },
+                "PrimaryRegionDescription": "Nebraska",
+                "Country": null,
+                "PostalCode": "68114",
+                "Coordinates": {
+                    "Longitude": -96.02478,
+                    "Latitude": 41.25895
+                },
+                "TimeZone": null,
+                "ValidationDetails": null
+            },
+            "AllowsVirtualAttendance": true,
+            "CharterDate": "/Date(99817200000)/",
+            "Classification": {
+                "Club": null,
+                "Area": {
+                    "Id": null,
+                    "Name": "32"
+                },
+                "Division": {
+                    "Id": null,
+                    "Name": "D"
+                },
+                "Region": null,
+                "District": {
+                    "Id": null,
+                    "Name": "24"
+                }
+            },
+            "CountryName": "United States",
+            "Distance": 4.959350052837965,
+            "Email": "barrow.chuck@gmail.com",
+            "FacebookLink": null,
+            "Identification": {
+                "Id": {
+                    "DisplayFriendlyFormat": "2202",
+                    "Value": "00002202",
+                    "Guid": null,
+                    "Name": "A-Rousers Toastmasters Club",
+                    "Valid": true
+                },
+                "Name": "A-Rousers Toastmasters Club"
+            },
+            "IsProspective": false,
+            "Location": "Do Space",
+            "MeetingDay": "Tues",
+            "MeetingTime": "7:00 a.m.",
+            "Note": "",
+            "Phone": "+1 402-305-8345",
+            "Restriction": [],
+            "TwitterLink": null,
+            "Website": "http://arousers.toastmastersclubs.org/"
+        },
+        {
+            "ExtensionData": null,
+            "Address": {
+                "Id": null,
+                "Street": "1919 Aksarben Dr",
+                "AdditionalLines": null,
+                "City": "Omaha",
+                "County": null,
+                "PrimaryRegion": {
+                    "Value": "NE",
+                    "Guid": null,
+                    "Name": null,
+                    "Valid": true
+                },
+                "PrimaryRegionDescription": "Nebraska",
+                "Country": null,
+                "PostalCode": "68106-2278",
+                "Coordinates": {
+                    "Longitude": -96.01792,
+                    "Latitude": 41.24095
+                },
+                "TimeZone": null,
+                "ValidationDetails": null
+            },
+            "AllowsVirtualAttendance": false,
+            "CharterDate": "/Date(562748400000)/",
+            "Classification": {
+                "Club": null,
+                "Area": {
+                    "Id": null,
+                    "Name": "32"
+                },
+                "Division": {
+                    "Id": null,
+                    "Name": "D"
+                },
+                "Region": null,
+                "District": {
+                    "Id": null,
+                    "Name": "24"
+                }
+            },
+            "CountryName": "United States",
+            "Distance": 5.091691248383836,
+            "Email": "contact-6757@toastmastersclubs.org",
+            "FacebookLink": "https://www.facebook.com/Blue-Ah-Busters-Toastmasters-Club-272313189457682",
+            "Identification": {
+                "Id": {
+                    "DisplayFriendlyFormat": "6757",
+                    "Value": "00006757",
+                    "Guid": null,
+                    "Name": "Blue Ah Busters Club",
+                    "Valid": true
+                },
+                "Name": "Blue Ah Busters Club"
+            },
+            "IsProspective": false,
+            "Location": "Blue Cross and Blue Shield of Nebraska",
+            "MeetingDay": "Tuesday",
+            "MeetingTime": "12:00 p.m.",
+            "Note": "",
+            "Phone": "402-982-8726",
+            "Restriction": [],
+            "TwitterLink": null,
+            "Website": "http://blueahbusters.toastmastersclubs.org/"
+        },
+        {
+            "ExtensionData": null,
+            "Address": {
+                "Id": null,
+                "Street": "6750 Mercy Rd, Floor 3",
+                "AdditionalLines": null,
+                "City": "Omaha",
+                "County": null,
+                "PrimaryRegion": {
+                    "Value": "NE",
+                    "Guid": null,
+                    "Name": null,
+                    "Valid": true
+                },
+                "PrimaryRegionDescription": "Nebraska",
+                "Country": null,
+                "PostalCode": "68106",
+                "Coordinates": {
+                    "Longitude": -96.01595,
+                    "Latitude": 41.23871
+                },
+                "TimeZone": null,
+                "ValidationDetails": null
+            },
+            "AllowsVirtualAttendance": true,
+            "CharterDate": "/Date(1434348000000)/",
+            "Classification": {
+                "Club": null,
+                "Area": {
+                    "Id": null,
+                    "Name": "32"
+                },
+                "Division": {
+                    "Id": null,
+                    "Name": "D"
+                },
+                "Region": null,
+                "District": {
+                    "Id": null,
+                    "Name": "24"
+                }
+            },
+            "CountryName": "United States",
+            "Distance": 5.188798531156538,
+            "Email": "christina.zoubek@pacificlife.com",
+            "FacebookLink": null,
+            "Identification": {
+                "Id": {
+                    "DisplayFriendlyFormat": "4744628",
+                    "Value": "04744628",
+                    "Guid": null,
+                    "Name": "Pacific Life Whale Talkers",
+                    "Valid": true
+                },
+                "Name": "Pacific Life Whale Talkers"
+            },
+            "IsProspective": false,
+            "Location": "Pacific Life",
+            "MeetingDay": "Wednesday",
+            "MeetingTime": "12:10 PM",
+            "Note": "",
+            "Phone": "+1 402-574-3145",
+            "Restriction": [
+                []
+            ],
+            "TwitterLink": null,
+            "Website": null
+        },
+        {
+            "ExtensionData": null,
+            "Address": {
+                "Id": null,
+                "Street": "1917 S 67th St",
+                "AdditionalLines": null,
+                "City": "Omaha",
+                "County": null,
+                "PrimaryRegion": {
+                    "Value": "NE",
+                    "Guid": null,
+                    "Name": null,
+                    "Valid": true
+                },
+                "PrimaryRegionDescription": "Nebraska",
+                "Country": null,
+                "PostalCode": "68106",
+                "Coordinates": {
+                    "Longitude": -96.01424,
+                    "Latitude": 41.24041
+                },
+                "TimeZone": null,
+                "ValidationDetails": null
+            },
+            "AllowsVirtualAttendance": false,
+            "CharterDate": "/Date(270799200000)/",
+            "Classification": {
+                "Club": null,
+                "Area": {
+                    "Id": null,
+                    "Name": "32"
+                },
+                "Division": {
+                    "Id": null,
+                    "Name": "D"
+                },
+                "Region": null,
+                "District": {
+                    "Id": null,
+                    "Name": "24"
+                }
+            },
+            "CountryName": "United States",
+            "Distance": 5.281034799902885,
+            "Email": "richard.mckinley@hdrinc.com",
+            "FacebookLink": null,
+            "Identification": {
+                "Id": {
+                    "DisplayFriendlyFormat": "1454",
+                    "Value": "00001454",
+                    "Guid": null,
+                    "Name": "HDR Omaha Toastmasters Club",
+                    "Valid": true
+                },
+                "Name": "HDR Omaha Toastmasters Club"
+            },
+            "IsProspective": false,
+            "Location": "HDR, Inc.",
+            "MeetingDay": "Every other Monday",
+            "MeetingTime": "12:00 p.m.",
+            "Note": "",
+            "Phone": "+1 402-926-7149",
+            "Restriction": [
+                []
+            ],
+            "TwitterLink": null,
+            "Website": "http://hdrcollab/sites/omahatoastmasters"
+        },
+        {
+            "ExtensionData": null,
+            "Address": {
+                "Id": null,
+                "Street": "14507 Frontier Rd",
+                "AdditionalLines": null,
+                "City": "Omaha",
+                "County": null,
+                "PrimaryRegion": {
+                    "Value": "NE",
+                    "Guid": null,
+                    "Name": null,
+                    "Valid": true
+                },
+                "PrimaryRegionDescription": "Nebraska",
+                "Country": null,
+                "PostalCode": "68145",
+                "Coordinates": {
+                    "Longitude": -96.1428,
+                    "Latitude": 41.15828
+                },
+                "TimeZone": null,
+                "ValidationDetails": null
+            },
+            "AllowsVirtualAttendance": true,
+            "CharterDate": "/Date(1217570400000)/",
+            "Classification": {
+                "Club": null,
+                "Area": {
+                    "Id": null,
+                    "Name": "12"
+                },
+                "Division": {
+                    "Id": null,
+                    "Name": "B"
+                },
+                "Region": null,
+                "District": {
+                    "Id": null,
+                    "Name": "24"
+                }
+            },
+            "CountryName": "United States",
+            "Distance": 5.637324527260596,
+            "Email": "klennen@werner.com",
+            "FacebookLink": null,
+            "Identification": {
+                "Id": {
+                    "DisplayFriendlyFormat": "1198189",
+                    "Value": "01198189",
+                    "Guid": null,
+                    "Name": "On Time Delivery",
+                    "Valid": true
+                },
+                "Name": "On Time Delivery"
+            },
+            "IsProspective": false,
+            "Location": "Werner Enterprises",
+            "MeetingDay": "2nd and 4th Tuesday",
+            "MeetingTime": "12:00 pm",
+            "Note": "",
+            "Phone": "+1 402-895-6640",
+            "Restriction": [
+                []
+            ],
+            "TwitterLink": null,
+            "Website": null
+        },
+        {
+            "ExtensionData": null,
+            "Address": {
+                "Id": null,
+                "Street": "5312 Underwood Ave",
+                "AdditionalLines": null,
+                "City": "Omaha",
+                "County": null,
+                "PrimaryRegion": {
+                    "Value": "NE",
+                    "Guid": null,
+                    "Name": null,
+                    "Valid": true
+                },
+                "PrimaryRegionDescription": "Nebraska",
+                "Country": null,
+                "PostalCode": "68132-2148",
+                "Coordinates": {
+                    "Longitude": -95.99754,
+                    "Latitude": 41.26555
+                },
+                "TimeZone": null,
+                "ValidationDetails": null
+            },
+            "AllowsVirtualAttendance": true,
+            "CharterDate": "/Date(-873223200000)/",
+            "Classification": {
+                "Club": null,
+                "Area": {
+                    "Id": null,
+                    "Name": "33"
+                },
+                "Division": {
+                    "Id": null,
+                    "Name": "D"
+                },
+                "Region": null,
+                "District": {
+                    "Id": null,
+                    "Name": "24"
+                }
+            },
+            "CountryName": "United States",
+            "Distance": 6.445783295745649,
+            "Email": "contact-229@toastmastersclubs.org",
+            "FacebookLink": "https://www.facebook.com/omahatoastmasters229",
+            "Identification": {
+                "Id": {
+                    "DisplayFriendlyFormat": "229",
+                    "Value": "00000229",
+                    "Guid": null,
+                    "Name": "Toastmasters Club Omaha 229",
+                    "Valid": true
+                },
+                "Name": "Toastmasters Club Omaha 229"
+            },
+            "IsProspective": false,
+            "Location": "Dundee Presbyterian Church<br>Enter on the east side and head downstairs.  Then, follow the hallway to the left and you will find us.",
+            "MeetingDay": "Monday",
+            "MeetingTime": "6:00 pm",
+            "Note": "",
+            "Phone": "7324911872",
+            "Restriction": [],
+            "TwitterLink": null,
+            "Website": "http://229.toastmastersclubs.org/"
+        },
+        {
+            "ExtensionData": null,
+            "Address": {
+                "Id": null,
+                "Street": "324 S. Jackson St, Rm B-12",
+                "AdditionalLines": null,
+                "City": "Papillion",
+                "County": null,
+                "PrimaryRegion": {
+                    "Value": "NE",
+                    "Guid": null,
+                    "Name": null,
+                    "Valid": true
+                },
+                "PrimaryRegionDescription": "Nebraska",
+                "Country": null,
+                "PostalCode": "68046",
+                "Coordinates": {
+                    "Longitude": -96.04634,
+                    "Latitude": 41.15385
+                },
+                "TimeZone": null,
+                "ValidationDetails": null
+            },
+            "AllowsVirtualAttendance": true,
+            "CharterDate": "/Date(478508400000)/",
+            "Classification": {
+                "Club": null,
+                "Area": {
+                    "Id": null,
+                    "Name": "14"
+                },
+                "Division": {
+                    "Id": null,
+                    "Name": "B"
+                },
+                "Region": null,
+                "District": {
+                    "Id": null,
+                    "Name": "24"
+                }
+            },
+            "CountryName": "United States",
+            "Distance": 6.803399070312088,
+            "Email": "contact-5779@toastmastersclubs.org",
+            "FacebookLink": null,
+            "Identification": {
+                "Id": {
+                    "DisplayFriendlyFormat": "5779",
+                    "Value": "00005779",
+                    "Guid": null,
+                    "Name": "River City Speakers Club",
+                    "Valid": true
+                },
+                "Name": "River City Speakers Club"
+            },
+            "IsProspective": false,
+            "Location": "St Paul's United Methodist Church<br>Rm B-21",
+            "MeetingDay": "1st and 3d Monday",
+            "MeetingTime": "7:00 pm",
+            "Note": "",
+            "Phone": "(402) 305-3931",
+            "Restriction": [],
+            "TwitterLink": null,
+            "Website": "http://rivercity.toastmastersclubs.org/"
+        },
+        {
+            "ExtensionData": null,
+            "Address": {
+                "Id": null,
+                "Street": "1243 Golden Gate Drive",
+                "AdditionalLines": null,
+                "City": "Papillion",
+                "County": null,
+                "PrimaryRegion": {
+                    "Value": "NE",
+                    "Guid": null,
+                    "Name": null,
+                    "Valid": true
+                },
+                "PrimaryRegionDescription": "Nebraska",
+                "Country": null,
+                "PostalCode": "68046-1503",
+                "Coordinates": {
+                    "Longitude": -96.04066,
+                    "Latitude": 41.14228
+                },
+                "TimeZone": null,
+                "ValidationDetails": null
+            },
+            "AllowsVirtualAttendance": true,
+            "CharterDate": "/Date(1148364000000)/",
+            "Classification": {
+                "Club": null,
+                "Area": {
+                    "Id": null,
+                    "Name": "14"
+                },
+                "Division": {
+                    "Id": null,
+                    "Name": "B"
+                },
+                "Region": null,
+                "District": {
+                    "Id": null,
+                    "Name": "24"
+                }
+            },
+            "CountryName": "United States",
+            "Distance": 7.6398056300817245,
+            "Email": "linda@kllifestyles.com",
+            "FacebookLink": "https://www.facebook.com/#!/pages/Sarpy-County-Chamber-of-Commerce-Toastmasters/298860960161534",
+            "Identification": {
+                "Id": {
+                    "DisplayFriendlyFormat": "736714",
+                    "Value": "00736714",
+                    "Guid": null,
+                    "Name": "Sarpy County Chamber Toastmasters Club",
+                    "Valid": true
+                },
+                "Name": "Sarpy County Chamber Toastmasters Club"
+            },
+            "IsProspective": false,
+            "Location": "Sarpy County Chamber of Commerce",
+            "MeetingDay": "1st and 3rd Wednesday each month",
+            "MeetingTime": "8:45 am ",
+            "Note": "",
+            "Phone": "4029805362",
+            "Restriction": [],
+            "TwitterLink": null,
+            "Website": "http://sarpy.toastmastersclubs.org/"
+        },
+        {
+            "ExtensionData": null,
+            "Address": {
+                "Id": null,
+                "Street": "3300 Mutual of Omaha Plaza",
+                "AdditionalLines": null,
+                "City": "Omaha",
+                "County": null,
+                "PrimaryRegion": {
+                    "Value": "NE",
+                    "Guid": null,
+                    "Name": null,
+                    "Valid": true
+                },
+                "PrimaryRegionDescription": "Nebraska",
+                "Country": null,
+                "PostalCode": "68175",
+                "Coordinates": {
+                    "Longitude": -95.96223,
+                    "Latitude": 41.25922
+                },
+                "TimeZone": null,
+                "ValidationDetails": null
+            },
+            "AllowsVirtualAttendance": true,
+            "CharterDate": "/Date(1119506400000)/",
+            "Classification": {
+                "Club": null,
+                "Area": {
+                    "Id": null,
+                    "Name": "33"
+                },
+                "Division": {
+                    "Id": null,
+                    "Name": "D"
+                },
+                "Region": null,
+                "District": {
+                    "Id": null,
+                    "Name": "24"
+                }
+            },
+            "CountryName": "United States",
+            "Distance": 8.120238824795406,
+            "Email": "contact-807953@toastmastersclubs.org",
+            "FacebookLink": null,
+            "Identification": {
+                "Id": {
+                    "DisplayFriendlyFormat": "807953",
+                    "Value": "00807953",
+                    "Guid": null,
+                    "Name": "Mutual of Omaha Toastmasters Club",
+                    "Valid": true
+                },
+                "Name": "Mutual of Omaha Toastmasters Club"
+            },
+            "IsProspective": false,
+            "Location": "Mutual of Omaha",
+            "MeetingDay": "2nd & 4th Tuesday",
+            "MeetingTime": "11:30 am",
+            "Note": "",
+            "Phone": "+1-402-351-4556",
+            "Restriction": [
+                []
+            ],
+            "TwitterLink": null,
+            "Website": null
+        },
+        {
+            "ExtensionData": null,
+            "Address": {
+                "Id": null,
+                "Street": "3336 Lake St",
+                "AdditionalLines": null,
+                "City": "Omaha",
+                "County": null,
+                "PrimaryRegion": {
+                    "Value": "NE",
+                    "Guid": null,
+                    "Name": null,
+                    "Valid": true
+                },
+                "PrimaryRegionDescription": "Nebraska",
+                "Country": null,
+                "PostalCode": "68111-3642",
+                "Coordinates": {
+                    "Longitude": -95.96305,
+                    "Latitude": 41.28182
+                },
+                "TimeZone": null,
+                "ValidationDetails": null
+            },
+            "AllowsVirtualAttendance": true,
+            "CharterDate": "/Date(1372312800000)/",
+            "Classification": {
+                "Club": null,
+                "Area": {
+                    "Id": null,
+                    "Name": "33"
+                },
+                "Division": {
+                    "Id": null,
+                    "Name": "D"
+                },
+                "Region": null,
+                "District": {
+                    "Id": null,
+                    "Name": "24"
+                }
+            },
+            "CountryName": "United States",
+            "Distance": 8.509222781694655,
+            "Email": "em4whynotspeak@gmail.com",
+            "FacebookLink": "https://m.facebook.com/groups/209489825841677?view=info&refid=18",
+            "Identification": {
+                "Id": {
+                    "DisplayFriendlyFormat": "3222923",
+                    "Value": "03222923",
+                    "Guid": null,
+                    "Name": "Why Not Speak",
+                    "Valid": true
+                },
+                "Name": "Why Not Speak"
+            },
+            "IsProspective": false,
+            "Location": "Sharon Seventh Day Adventist Church",
+            "MeetingDay": "Thursday",
+            "MeetingTime": "6:15 pm",
+            "Note": "",
+            "Phone": "1-402-285-2589",
+            "Restriction": [],
+            "TwitterLink": null,
+            "Website": "https://3222923.toastmastersclubs.org/"
+        },
+        {
+            "ExtensionData": null,
+            "Address": {
+                "Id": null,
+                "Street": "1400 Douglas Street, Room 1001",
+                "AdditionalLines": null,
+                "City": "Omaha",
+                "County": null,
+                "PrimaryRegion": {
+                    "Value": "NE",
+                    "Guid": null,
+                    "Name": null,
+                    "Valid": true
+                },
+                "PrimaryRegionDescription": "Nebraska",
+                "Country": null,
+                "PostalCode": "68179",
+                "Coordinates": {
+                    "Longitude": -95.93989,
+                    "Latitude": 41.2607
+                },
+                "TimeZone": null,
+                "ValidationDetails": null
+            },
+            "AllowsVirtualAttendance": true,
+            "CharterDate": "/Date(268120800000)/",
+            "Classification": {
+                "Club": null,
+                "Area": {
+                    "Id": null,
+                    "Name": "31"
+                },
+                "Division": {
+                    "Id": null,
+                    "Name": "D"
+                },
+                "Region": null,
+                "District": {
+                    "Id": null,
+                    "Name": "24"
+                }
+            },
+            "CountryName": "United States",
+            "Distance": 9.280101576328262,
+            "Email": "officers-3420@toastmastersclubs.org",
+            "FacebookLink": null,
+            "Identification": {
+                "Id": {
+                    "DisplayFriendlyFormat": "3420",
+                    "Value": "00003420",
+                    "Guid": null,
+                    "Name": "Rail Talkers Club",
+                    "Valid": true
+                },
+                "Name": "Rail Talkers Club"
+            },
+            "IsProspective": false,
+            "Location": "zoom.us/j/553830639 - contact us for pwd<br>Through the end of April, 2020, we are meeting online through Zoom (link above, contact us for password)",
+            "MeetingDay": "Tuesday",
+            "MeetingTime": "12:05 pm",
+            "Note": "",
+            "Phone": "+1 402-617-8787",
+            "Restriction": [],
+            "TwitterLink": null,
+            "Website": "http://railtalkers.toastmastersclubs.org/"
+        },
+        {
+            "ExtensionData": null,
+            "Address": {
+                "Id": null,
+                "Street": "444 South 16th St Mall",
+                "AdditionalLines": null,
+                "City": "Omaha",
+                "County": null,
+                "PrimaryRegion": {
+                    "Value": "NE",
+                    "Guid": null,
+                    "Name": null,
+                    "Valid": true
+                },
+                "PrimaryRegionDescription": "Nebraska",
+                "Country": null,
+                "PostalCode": "68102",
+                "Coordinates": {
+                    "Longitude": -95.93731,
+                    "Latitude": 41.25606
+                },
+                "TimeZone": null,
+                "ValidationDetails": null
+            },
+            "AllowsVirtualAttendance": true,
+            "CharterDate": "/Date(575881200000)/",
+            "Classification": {
+                "Club": null,
+                "Area": {
+                    "Id": null,
+                    "Name": "31"
+                },
+                "Division": {
+                    "Id": null,
+                    "Name": "D"
+                },
+                "Region": null,
+                "District": {
+                    "Id": null,
+                    "Name": "24"
+                }
+            },
+            "CountryName": "United States",
+            "Distance": 9.36269060704839,
+            "Email": "deeriksen@oppd.com",
+            "FacebookLink": null,
+            "Identification": {
+                "Id": {
+                    "DisplayFriendlyFormat": "455",
+                    "Value": "00000455",
+                    "Guid": null,
+                    "Name": "OPPD Toastmasters Club",
+                    "Valid": true
+                },
+                "Name": "OPPD Toastmasters Club"
+            },
+            "IsProspective": false,
+            "Location": "Omaha Public Power District<br>or Webex",
+            "MeetingDay": "Thursday",
+            "MeetingTime": "12:05 PM",
+            "Note": "",
+            "Phone": "+undefined 531-226-2545",
+            "Restriction": [
+                []
+            ],
+            "TwitterLink": null,
+            "Website": null
+        },
+        {
+            "ExtensionData": null,
+            "Address": {
+                "Id": null,
+                "Street": "https://www.meetup.com/TechTalkers",
+                "AdditionalLines": null,
+                "City": "Omaha",
+                "County": null,
+                "PrimaryRegion": {
+                    "Value": "NE",
+                    "Guid": null,
+                    "Name": null,
+                    "Valid": true
+                },
+                "PrimaryRegionDescription": "Nebraska",
+                "Country": null,
+                "PostalCode": "68197",
+                "Coordinates": {
+                    "Longitude": -95.93784,
+                    "Latitude": 41.2597
+                },
+                "TimeZone": null,
+                "ValidationDetails": null
+            },
+            "AllowsVirtualAttendance": true,
+            "CharterDate": "/Date(920271600000)/",
+            "Classification": {
+                "Club": null,
+                "Area": {
+                    "Id": null,
+                    "Name": "01"
+                },
+                "Division": {
+                    "Id": null,
+                    "Name": "A"
+                },
+                "Region": null,
+                "District": {
+                    "Id": null,
+                    "Name": "24"
+                }
+            },
+            "CountryName": "United States",
+            "Distance": 9.37339857232968,
+            "Email": "contact-6424@toastmastersclubs.org",
+            "FacebookLink": null,
+            "Identification": {
+                "Id": {
+                    "DisplayFriendlyFormat": "6424",
+                    "Value": "00006424",
+                    "Guid": null,
+                    "Name": "Tech Talkers",
+                    "Valid": true
+                },
+                "Name": "Tech Talkers"
+            },
+            "IsProspective": false,
+            "Location": "Online",
+            "MeetingDay": "2nd and 4th Friday of the Month",
+            "MeetingTime": "Noon to 1 p.m.",
+            "Note": "",
+            "Phone": "+undefined 402-617-8787",
+            "Restriction": [],
+            "TwitterLink": null,
+            "Website": "http://techtalkers.org/"
+        },
+        {
+            "ExtensionData": null,
+            "Address": {
+                "Id": null,
+                "Street": "1616 Capitol Avenue",
+                "AdditionalLines": null,
+                "City": "Omaha",
+                "County": null,
+                "PrimaryRegion": {
+                    "Value": "NE",
+                    "Guid": null,
+                    "Name": null,
+                    "Valid": true
+                },
+                "PrimaryRegionDescription": "Nebraska",
+                "Country": null,
+                "PostalCode": "68102-4901",
+                "Coordinates": {
+                    "Longitude": -95.93747,
+                    "Latitude": 41.26083
+                },
+                "TimeZone": null,
+                "ValidationDetails": null
+            },
+            "AllowsVirtualAttendance": true,
+            "CharterDate": "/Date(423295200000)/",
+            "Classification": {
+                "Club": null,
+                "Area": {
+                    "Id": null,
+                    "Name": "33"
+                },
+                "Division": {
+                    "Id": null,
+                    "Name": "D"
+                },
+                "Region": null,
+                "District": {
+                    "Id": null,
+                    "Name": "24"
+                }
+            },
+            "CountryName": "United States",
+            "Distance": 9.405458019116324,
+            "Email": "capitolavenuetoastmasters@gmail.com",
+            "FacebookLink": null,
+            "Identification": {
+                "Id": {
+                    "DisplayFriendlyFormat": "5140",
+                    "Value": "00005140",
+                    "Guid": null,
+                    "Name": "Capitol Avenue Toastmasters",
+                    "Valid": true
+                },
+                "Name": "Capitol Avenue Toastmasters"
+            },
+            "IsProspective": false,
+            "Location": "Club is meeting online and in-person<br>Contact club above for meeting information",
+            "MeetingDay": "Thursday",
+            "MeetingTime": "11:30 am",
+            "Note": "",
+            "Phone": "+12-995-2285",
+            "Restriction": [],
+            "TwitterLink": null,
+            "Website": "https://capitolavenue.toastmastersclubs.org/"
+        },
+        {
+            "ExtensionData": null,
+            "Address": {
+                "Id": null,
+                "Street": "Six ConAgra Drive",
+                "AdditionalLines": null,
+                "City": "Omaha",
+                "County": null,
+                "PrimaryRegion": {
+                    "Value": "NE",
+                    "Guid": null,
+                    "Name": null,
+                    "Valid": true
+                },
+                "PrimaryRegionDescription": "Nebraska",
+                "Country": null,
+                "PostalCode": "68102-5003",
+                "Coordinates": {
+                    "Longitude": -95.92521,
+                    "Latitude": 41.25384
+                },
+                "TimeZone": null,
+                "ValidationDetails": null
+            },
+            "AllowsVirtualAttendance": true,
+            "CharterDate": "/Date(1226300400000)/",
+            "Classification": {
+                "Club": null,
+                "Area": {
+                    "Id": null,
+                    "Name": "31"
+                },
+                "Division": {
+                    "Id": null,
+                    "Name": "D"
+                },
+                "Region": null,
+                "District": {
+                    "Id": null,
+                    "Name": "24"
+                }
+            },
+            "CountryName": "United States",
+            "Distance": 9.967026898399027,
+            "Email": "Kelly.dawson@conagra.com",
+            "FacebookLink": null,
+            "Identification": {
+                "Id": {
+                    "DisplayFriendlyFormat": "1234525",
+                    "Value": "01234525",
+                    "Guid": null,
+                    "Name": "Conagra Brands - One Voice",
+                    "Valid": true
+                },
+                "Name": "Conagra Brands - One Voice"
+            },
+            "IsProspective": false,
+            "Location": "ConAgra Foods, Inc.<br>Building 6, Conference Room 4G",
+            "MeetingDay": "Thursdays",
+            "MeetingTime": "12:00-1:00pm",
+            "Note": "",
+            "Phone": "4022406725",
+            "Restriction": [],
+            "TwitterLink": null,
+            "Website": null
+        },
+        {
+            "ExtensionData": null,
+            "Address": {
+                "Id": null,
+                "Street": "PO Box 355",
+                "AdditionalLines": null,
+                "City": "Gretna",
+                "County": null,
+                "PrimaryRegion": {
+                    "Value": "NE",
+                    "Guid": null,
+                    "Name": null,
+                    "Valid": true
+                },
+                "PrimaryRegionDescription": "Nebraska",
+                "Country": null,
+                "PostalCode": "68028",
+                "Coordinates": {
+                    "Longitude": -96.2497,
+                    "Latitude": 41.13115
+                },
+                "TimeZone": null,
+                "ValidationDetails": null
+            },
+            "AllowsVirtualAttendance": true,
+            "CharterDate": "/Date(1624946400000)/",
+            "Classification": {
+                "Club": null,
+                "Area": {
+                    "Id": null,
+                    "Name": "03"
+                },
+                "Division": {
+                    "Id": null,
+                    "Name": "A"
+                },
+                "Region": null,
+                "District": {
+                    "Id": null,
+                    "Name": "24"
+                }
+            },
+            "CountryName": "United States",
+            "Distance": 10.112921879765276,
+            "Email": "contact-7852130@toastmastersclubs.org",
+            "FacebookLink": "https://www.facebook.com/search/top?q=upgrade%20virtually%20toastmasters%20club",
+            "Identification": {
+                "Id": {
+                    "DisplayFriendlyFormat": "7852130",
+                    "Value": "07852130",
+                    "Guid": null,
+                    "Name": "Upgrade Virtually",
+                    "Valid": true
+                },
+                "Name": "Upgrade Virtually"
+            },
+            "IsProspective": false,
+            "Location": "Online",
+            "MeetingDay": "1st & 3rd Tuesday",
+            "MeetingTime": "7:00 - 8:00 PM CT",
+            "Note": "",
+            "Phone": null,
+            "Restriction": [],
+            "TwitterLink": null,
+            "Website": "https://7852130.toastmastersclubs.org/"
+        },
+        {
+            "ExtensionData": null,
+            "Address": {
+                "Id": null,
+                "Street": "2806 Angie Dr",
+                "AdditionalLines": null,
+                "City": "Bellevue",
+                "County": null,
+                "PrimaryRegion": {
+                    "Value": "NE",
+                    "Guid": null,
+                    "Name": null,
+                    "Valid": true
+                },
+                "PrimaryRegionDescription": "Nebraska",
+                "Country": null,
+                "PostalCode": "68005",
+                "Coordinates": {
+                    "Longitude": -95.93181,
+                    "Latitude": 41.14937
+                },
+                "TimeZone": null,
+                "ValidationDetails": null
+            },
+            "AllowsVirtualAttendance": true,
+            "CharterDate": "/Date(1372312800000)/",
+            "Classification": {
+                "Club": null,
+                "Area": {
+                    "Id": null,
+                    "Name": "13"
+                },
+                "Division": {
+                    "Id": null,
+                    "Name": "B"
+                },
+                "Region": null,
+                "District": {
+                    "Id": null,
+                    "Name": "24"
+                }
+            },
+            "CountryName": "United States",
+            "Distance": 11.332243610979438,
+            "Email": "contact-3238517@toastmastersclubs.org",
+            "FacebookLink": "https://www.facebook.com/Road-2-DTM-Toastmasters-Club-165405073667438",
+            "Identification": {
+                "Id": {
+                    "DisplayFriendlyFormat": "3238517",
+                    "Value": "03238517",
+                    "Guid": null,
+                    "Name": "Road 2 DTM",
+                    "Valid": true
+                },
+                "Name": "Road 2 DTM"
+            },
+            "IsProspective": false,
+            "Location": "online only",
+            "MeetingDay": "Saturday, 1st",
+            "MeetingTime": "11:00 am - 2:00 pm",
+            "Note": "This club may have professional and/or educational prerequisites for membership.<BR>Please contact the club for further information.",
+            "Phone": null,
+            "Restriction": [
+                []
+            ],
+            "TwitterLink": null,
+            "Website": "http://road2dtmclub.toastmastersclubs.org/index.cgi?memberlogout"
+        },
+        {
+            "ExtensionData": null,
+            "Address": {
+                "Id": null,
+                "Street": "See club website, See club website",
+                "AdditionalLines": null,
+                "City": "Offutt AFB",
+                "County": null,
+                "PrimaryRegion": {
+                    "Value": "NE",
+                    "Guid": null,
+                    "Name": null,
+                    "Valid": true
+                },
+                "PrimaryRegionDescription": "Nebraska",
+                "Country": null,
+                "PostalCode": "68123",
+                "Coordinates": {
+                    "Longitude": -95.9227,
+                    "Latitude": 41.15438
+                },
+                "TimeZone": null,
+                "ValidationDetails": null
+            },
+            "AllowsVirtualAttendance": true,
+            "CharterDate": "/Date(-399837600000)/",
+            "Classification": {
+                "Club": null,
+                "Area": {
+                    "Id": null,
+                    "Name": "14"
+                },
+                "Division": {
+                    "Id": null,
+                    "Name": "B"
+                },
+                "Region": null,
+                "District": {
+                    "Id": null,
+                    "Name": "24"
+                }
+            },
+            "CountryName": "United States",
+            "Distance": 11.55906647532196,
+            "Email": "contact-2393@toastmastersclubs.org",
+            "FacebookLink": "https://www.facebook.com/OffuttToastmastersClub2393/",
+            "Identification": {
+                "Id": {
+                    "DisplayFriendlyFormat": "2393",
+                    "Value": "00002393",
+                    "Guid": null,
+                    "Name": "Offutt Toastmasters",
+                    "Valid": true
+                },
+                "Name": "Offutt Toastmasters"
+            },
+            "IsProspective": false,
+            "Location": "BU Military and Veteran Services Center<br>2108 Harvell Circle, Bellevue, NE 68005 @ 6 PM 2nd & 4th Thursday",
+            "MeetingDay": "2nd & 4th Thursdays",
+            "MeetingTime": "6:00 pm",
+            "Note": "",
+            "Phone": "+14029126352",
+            "Restriction": [],
+            "TwitterLink": null,
+            "Website": "http://offutt.toastmastersclubs.org/"
+        },
+        {
+            "ExtensionData": null,
+            "Address": {
+                "Id": null,
+                "Street": "By  phone +7123269332",
+                "AdditionalLines": null,
+                "City": "Council Bluffs",
+                "County": null,
+                "PrimaryRegion": {
+                    "Value": "IA",
+                    "Guid": null,
+                    "Name": null,
+                    "Valid": true
+                },
+                "PrimaryRegionDescription": "Iowa",
+                "Country": null,
+                "PostalCode": "51501",
+                "Coordinates": {
+                    "Longitude": -95.87347,
+                    "Latitude": 41.25407
+                },
+                "TimeZone": null,
+                "ValidationDetails": null
+            },
+            "AllowsVirtualAttendance": true,
+            "CharterDate": "/Date(-283971600000)/",
+            "Classification": {
+                "Club": null,
+                "Area": {
+                    "Id": null,
+                    "Name": "14"
+                },
+                "Division": {
+                    "Id": null,
+                    "Name": "B"
+                },
+                "Region": null,
+                "District": {
+                    "Id": null,
+                    "Name": "24"
+                }
+            },
+            "CountryName": "United States",
+            "Distance": 12.642412236008843,
+            "Email": "contact-2114@toastmastersclubs.org",
+            "FacebookLink": "https://www.facebook.com/club2114/",
+            "Identification": {
+                "Id": {
+                    "DisplayFriendlyFormat": "2114",
+                    "Value": "00002114",
+                    "Guid": null,
+                    "Name": "Greater Communicators Toastmasters Club",
+                    "Valid": true
+                },
+                "Name": "Greater Communicators Toastmasters Club"
+            },
+            "IsProspective": false,
+            "Location": "By Zoom  Use this link <br>https://zoom.us/j/201424083?pwd=R1NBV0xJZ3MrQ0twL0d5Y2dLRUU2QT09",
+            "MeetingDay": "Wednesday",
+            "MeetingTime": "6:00 pm",
+            "Note": "",
+            "Phone": "+undefined 712-326-9332",
+            "Restriction": [],
+            "TwitterLink": null,
+            "Website": "http://greatercommunicators.toastmastersclubs.org/"
+        },
+        {
+            "ExtensionData": null,
+            "Address": {
+                "Id": null,
+                "Street": "9th & Clarkson",
+                "AdditionalLines": null,
+                "City": "Fremont",
+                "County": null,
+                "PrimaryRegion": {
+                    "Value": "NE",
+                    "Guid": null,
+                    "Name": null,
+                    "Valid": true
+                },
+                "PrimaryRegionDescription": "Nebraska",
+                "Country": null,
+                "PostalCode": "68025-4132",
+                "Coordinates": {
+                    "Longitude": -96.4977,
+                    "Latitude": 41.43921
+                },
+                "TimeZone": null,
+                "ValidationDetails": null
+            },
+            "AllowsVirtualAttendance": true,
+            "CharterDate": "/Date(-462996000000)/",
+            "Classification": {
+                "Club": null,
+                "Area": {
+                    "Id": null,
+                    "Name": "02"
+                },
+                "Division": {
+                    "Id": null,
+                    "Name": "A"
+                },
+                "Region": null,
+                "District": {
+                    "Id": null,
+                    "Name": "24"
+                }
+            },
+            "CountryName": "United States",
+            "Distance": 24.230718258496985,
+            "Email": "pete1201@petehines.com",
+            "FacebookLink": "https://facebook.com/TallyHoToastmasters",
+            "Identification": {
+                "Id": {
+                    "DisplayFriendlyFormat": "1826",
+                    "Value": "00001826",
+                    "Guid": null,
+                    "Name": "Tally Ho Toastmasters Club",
+                    "Valid": true
+                },
+                "Name": "Tally Ho Toastmasters Club"
+            },
+            "IsProspective": false,
+            "Location": "Meeting online <br>Midland University (Anderson Complex)",
+            "MeetingDay": "Thursday",
+            "MeetingTime": "7:00 pm",
+            "Note": "",
+            "Phone": "402-727-1340",
+            "Restriction": [],
+            "TwitterLink": null,
+            "Website": "http://tallyhofremont.toastmastersclubs.org/"
+        }
+    ],
+    "IsAdvanced": false,
+    "longitude": -96.1158,
+    "latitude": 41.2373,
+    "advanced": 0,
+    "country": null,
+    "district": null,
+    "radius": 25,
+    "zoom": 0,
+    "day": null,
+    "time": null,
+    "status": null,
+    "q": "68144, Omaha, Nebraska, United States",
+    "n": null,
+    "autocomplete": true
+}
